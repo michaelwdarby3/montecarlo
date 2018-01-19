@@ -1,0 +1,42 @@
+Mode: CoinFlip
+Size of each batch: 1000
+Number of batches: 10
+
+Expected mean: 0.5.
+Means:
+Batch 1 mean: 0.523
+Batch 2 mean: 0.502
+Batch 3 mean: 0.486
+Batch 4 mean: 0.51
+Batch 5 mean: 0.516
+Batch 6 mean: 0.532
+Batch 7 mean: 0.496
+Batch 8 mean: 0.497
+Batch 9 mean: 0.52
+Batch 10 mean: 0.512
+Total mean: 0.5094
+
+Expected Variance: 0.25
+Expected Standard Deviation: 0.5
+Actual Variance of Batch 1: 0.249471
+Actual Standard Deviation of Batch 1: 0.499470719863
+Actual Variance of Batch 2: 0.249996
+Actual Standard Deviation of Batch 2: 0.499995999984
+Actual Variance of Batch 3: 0.249804
+Actual Standard Deviation of Batch 3: 0.499803961569
+Actual Variance of Batch 4: 0.2499
+Actual Standard Deviation of Batch 4: 0.499899989998
+Actual Variance of Batch 5: 0.249744
+Actual Standard Deviation of Batch 5: 0.49974393443
+Actual Variance of Batch 6: 0.248976
+Actual Standard Deviation of Batch 6: 0.498974949271
+Actual Variance of Batch 7: 0.249984
+Actual Standard Deviation of Batch 7: 0.499983999744
+Actual Variance of Batch 8: 0.249991
+Actual Standard Deviation of Batch 8: 0.499990999919
+Actual Variance of Batch 9: 0.2496
+Actual Standard Deviation of Batch 9: 0.499599839872
+Actual Variance of Batch 10: 0.249856
+Actual Standard Deviation of Batch 10: 0.499855979258
+Overall Variance: 0.24991164
+Overall Standard Deviation: 0.499911632191

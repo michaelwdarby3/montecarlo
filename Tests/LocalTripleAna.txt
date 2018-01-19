@@ -1,0 +1,18 @@
+Mode: LocalTriple
+Size of each batch: 1000
+Number of batches: 10
+
+Expected mean: 5.5.
+Means:
+Batch 1 mean: 5.47566666667
+Batch 2 mean: 5.42966666667
+Batch 3 mean: 5.595
+Batch 4 mean: 5.483
+Batch 5 mean: 5.50066666667
+Batch 6 mean: 5.51366666667
+Batch 7 mean: 5.494
+Batch 8 mean: 5.42333333333
+Batch 9 mean: 5.49733333333
+Batch 10 mean: 5.41066666667
+Total mean: 5.4823
+

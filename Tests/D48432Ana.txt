@@ -1,0 +1,312 @@
+Mode: D48432
+Size of each batch: 10000
+Number of batches: 100
+
+Expected mean: 24216.5.
+Means:
+Batch 1 mean: 24289.3194
+Batch 2 mean: 24245.4859
+Batch 3 mean: 24235.6181
+Batch 4 mean: 24251.963
+Batch 5 mean: 24092.8113
+Batch 6 mean: 24186.6972
+Batch 7 mean: 24414.8803
+Batch 8 mean: 24412.2869
+Batch 9 mean: 23989.4263
+Batch 10 mean: 24173.2865
+Batch 11 mean: 24434.2173
+Batch 12 mean: 24282.602
+Batch 13 mean: 24225.5791
+Batch 14 mean: 24070.422
+Batch 15 mean: 24206.7468
+Batch 16 mean: 24048.3103
+Batch 17 mean: 24236.7945
+Batch 18 mean: 24138.176
+Batch 19 mean: 24325.1334
+Batch 20 mean: 24350.6078
+Batch 21 mean: 24107.6406
+Batch 22 mean: 24279.8633
+Batch 23 mean: 24436.7453
+Batch 24 mean: 24419.0596
+Batch 25 mean: 24168.378
+Batch 26 mean: 24063.3723
+Batch 27 mean: 24464.1991
+Batch 28 mean: 24265.0625
+Batch 29 mean: 24400.813
+Batch 30 mean: 24219.4816
+Batch 31 mean: 24173.1505
+Batch 32 mean: 24465.8583
+Batch 33 mean: 23991.2903
+Batch 34 mean: 24194.4451
+Batch 35 mean: 24259.4707
+Batch 36 mean: 24169.3384
+Batch 37 mean: 24157.6641
+Batch 38 mean: 24602.0834
+Batch 39 mean: 23916.2727
+Batch 40 mean: 24241.4939
+Batch 41 mean: 24185.027
+Batch 42 mean: 24269.7563
+Batch 43 mean: 24114.8679
+Batch 44 mean: 24172.3742
+Batch 45 mean: 24100.6823
+Batch 46 mean: 24304.988
+Batch 47 mean: 24153.8432
+Batch 48 mean: 24040.766
+Batch 49 mean: 24212.2516
+Batch 50 mean: 24407.8959
+Batch 51 mean: 24033.3381
+Batch 52 mean: 24270.653
+Batch 53 mean: 24226.3577
+Batch 54 mean: 23829.1894
+Batch 55 mean: 24058.5811
+Batch 56 mean: 24495.3123
+Batch 57 mean: 24350.6305
+Batch 58 mean: 24615.5383
+Batch 59 mean: 24271.5011
+Batch 60 mean: 23995.3459
+Batch 61 mean: 24138.6354
+Batch 62 mean: 24537.0721
+Batch 63 mean: 24047.0051
+Batch 64 mean: 24054.0821
+Batch 65 mean: 24213.642
+Batch 66 mean: 24487.5096
+Batch 67 mean: 24197.4465
+Batch 68 mean: 24182.4517
+Batch 69 mean: 24247.2916
+Batch 70 mean: 24133.1916
+Batch 71 mean: 24218.9723
+Batch 72 mean: 24071.3999
+Batch 73 mean: 24085.4438
+Batch 74 mean: 24178.3693
+Batch 75 mean: 24149.4619
+Batch 76 mean: 24432.5843
+Batch 77 mean: 24279.896
+Batch 78 mean: 23928.3295
+Batch 79 mean: 24080.6521
+Batch 80 mean: 24479.0157
+Batch 81 mean: 24274.1584
+Batch 82 mean: 24135.0016
+Batch 83 mean: 24318.1275
+Batch 84 mean: 24408.6479
+Batch 85 mean: 24502.6473
+Batch 86 mean: 24144.7625
+Batch 87 mean: 24154.2234
+Batch 88 mean: 23955.9154
+Batch 89 mean: 24094.9745
+Batch 90 mean: 24085.8891
+Batch 91 mean: 23960.035
+Batch 92 mean: 24142.6068
+Batch 93 mean: 24150.9412
+Batch 94 mean: 24459.8621
+Batch 95 mean: 24110.2664
+Batch 96 mean: 24294.4577
+Batch 97 mean: 24172.4473
+Batch 98 mean: 24244.2718
+Batch 99 mean: 24096.9182
+Batch 100 mean: 24410.2432
+Total mean: 24219.737964
+
+Expected Variance: 195471551.917
+Expected Standard Deviation: 13981.1141157
+Actual Variance of Batch 1: 194389624.22
+Actual Standard Deviation of Batch 1: 13942.367956
+Actual Variance of Batch 2: 194128760.657
+Actual Standard Deviation of Batch 2: 13933.0097487
+Actual Variance of Batch 3: 195011728.663
+Actual Standard Deviation of Batch 3: 13964.659991
+Actual Variance of Batch 4: 195138640.982
+Actual Standard Deviation of Batch 4: 13969.2033052
+Actual Variance of Batch 5: 193584344.702
+Actual Standard Deviation of Batch 5: 13913.4591206
+Actual Variance of Batch 6: 194334227.186
+Actual Standard Deviation of Batch 6: 13940.3811708
+Actual Variance of Batch 7: 199064191.43
+Actual Standard Deviation of Batch 7: 14109.0110011
+Actual Variance of Batch 8: 194656456.482
+Actual Standard Deviation of Batch 8: 13951.93379
+Actual Variance of Batch 9: 193982928.164
+Actual Standard Deviation of Batch 9: 13927.7754205
+Actual Variance of Batch 10: 194916449.664
+Actual Standard Deviation of Batch 10: 13961.2481414
+Actual Variance of Batch 11: 196801736.552
+Actual Standard Deviation of Batch 11: 14028.6042268
+Actual Variance of Batch 12: 197256087.979
+Actual Standard Deviation of Batch 12: 14044.7886413
+Actual Variance of Batch 13: 196161986.1
+Actual Standard Deviation of Batch 13: 14005.7840231
+Actual Variance of Batch 14: 197139897.586
+Actual Standard Deviation of Batch 14: 14040.6516083
+Actual Variance of Batch 15: 196313914.102
+Actual Standard Deviation of Batch 15: 14011.2067325
+Actual Variance of Batch 16: 197198530.664
+Actual Standard Deviation of Batch 16: 14042.7394288
+Actual Variance of Batch 17: 194813116.52
+Actual Standard Deviation of Batch 17: 13957.5469378
+Actual Variance of Batch 18: 194595358.958
+Actual Standard Deviation of Batch 18: 13949.7440463
+Actual Variance of Batch 19: 191625816.894
+Actual Standard Deviation of Batch 19: 13842.8977058
+Actual Variance of Batch 20: 193481820.556
+Actual Standard Deviation of Batch 20: 13909.7742813
+Actual Variance of Batch 21: 196707431.012
+Actual Standard Deviation of Batch 21: 14025.2426365
+Actual Variance of Batch 22: 196277831.439
+Actual Standard Deviation of Batch 22: 14009.9190376
+Actual Variance of Batch 23: 196114988.206
+Actual Standard Deviation of Batch 23: 14004.1061195
+Actual Variance of Batch 24: 196850300.351
+Actual Standard Deviation of Batch 24: 14030.3350049
+Actual Variance of Batch 25: 197343834.891
+Actual Standard Deviation of Batch 25: 14047.9121186
+Actual Variance of Batch 26: 194131709.073
+Actual Standard Deviation of Batch 26: 13933.1155551
+Actual Variance of Batch 27: 192866556.954
+Actual Standard Deviation of Batch 27: 13887.6404387
+Actual Variance of Batch 28: 195285593.957
+Actual Standard Deviation of Batch 28: 13974.4622064
+Actual Variance of Batch 29: 195796535.941
+Actual Standard Deviation of Batch 29: 13992.7315396
+Actual Variance of Batch 30: 196217887.502
+Actual Standard Deviation of Batch 30: 14007.779535
+Actual Variance of Batch 31: 197376101.893
+Actual Standard Deviation of Batch 31: 14049.0605342
+Actual Variance of Batch 32: 198247108.131
+Actual Standard Deviation of Batch 32: 14080.0251467
+Actual Variance of Batch 33: 196478001.902
+Actual Standard Deviation of Batch 33: 14017.0611008
+Actual Variance of Batch 34: 193322668.216
+Actual Standard Deviation of Batch 34: 13904.0522229
+Actual Variance of Batch 35: 194693323.726
+Actual Standard Deviation of Batch 35: 13953.2549509
+Actual Variance of Batch 36: 193577036.878
+Actual Standard Deviation of Batch 36: 13913.1965011
+Actual Variance of Batch 37: 194569989.132
+Actual Standard Deviation of Batch 37: 13948.8346872
+Actual Variance of Batch 38: 197110768.528
+Actual Standard Deviation of Batch 38: 14039.6142585
+Actual Variance of Batch 39: 194424829.201
+Actual Standard Deviation of Batch 39: 13943.6304168
+Actual Variance of Batch 40: 197417595.071
+Actual Standard Deviation of Batch 40: 14050.5371809
+Actual Variance of Batch 41: 194091958.029
+Actual Standard Deviation of Batch 41: 13931.688987
+Actual Variance of Batch 42: 194324953.596
+Actual Standard Deviation of Batch 42: 13940.0485507
+Actual Variance of Batch 43: 195012181.054
+Actual Standard Deviation of Batch 43: 13964.6761887
+Actual Variance of Batch 44: 197218332.767
+Actual Standard Deviation of Batch 44: 14043.4444766
+Actual Variance of Batch 45: 194708835.408
+Actual Standard Deviation of Batch 45: 13953.8107844
+Actual Variance of Batch 46: 198125194.696
+Actual Standard Deviation of Batch 46: 14075.6951763
+Actual Variance of Batch 47: 196180355.945
+Actual Standard Deviation of Batch 47: 14006.4398026
+Actual Variance of Batch 48: 198595382.043
+Actual Standard Deviation of Batch 48: 14092.3873791
+Actual Variance of Batch 49: 194814701.123
+Actual Standard Deviation of Batch 49: 13957.6037028
+Actual Variance of Batch 50: 193234402.909
+Actual Standard Deviation of Batch 50: 13900.8777748
+Actual Variance of Batch 51: 193674134.614
+Actual Standard Deviation of Batch 51: 13916.6854751
+Actual Variance of Batch 52: 197378026.38
+Actual Standard Deviation of Batch 52: 14049.1290257
+Actual Variance of Batch 53: 196338009.376
+Actual Standard Deviation of Batch 53: 14012.0665634
+Actual Variance of Batch 54: 198707537.84
+Actual Standard Deviation of Batch 54: 14096.3661218
+Actual Variance of Batch 55: 192765431.33
+Actual Standard Deviation of Batch 55: 13883.9991116
+Actual Variance of Batch 56: 194436503.026
+Actual Standard Deviation of Batch 56: 13944.0490183
+Actual Variance of Batch 57: 192976350.523
+Actual Standard Deviation of Batch 57: 13891.5928001
+Actual Variance of Batch 58: 194666382.536
+Actual Standard Deviation of Batch 58: 13952.2895087
+Actual Variance of Batch 59: 198641412.221
+Actual Standard Deviation of Batch 59: 14094.0204421
+Actual Variance of Batch 60: 196509108.477
+Actual Standard Deviation of Batch 60: 14018.1706537
+Actual Variance of Batch 61: 196506348.444
+Actual Standard Deviation of Batch 61: 14018.0722085
+Actual Variance of Batch 62: 196758502.897
+Actual Standard Deviation of Batch 62: 14027.0632314
+Actual Variance of Batch 63: 197789162.466
+Actual Standard Deviation of Batch 63: 14063.7534985
+Actual Variance of Batch 64: 195336199.259
+Actual Standard Deviation of Batch 64: 13976.2727241
+Actual Variance of Batch 65: 193039482.818
+Actual Standard Deviation of Batch 65: 13893.8649345
+Actual Variance of Batch 66: 193088458.886
+Actual Standard Deviation of Batch 66: 13895.6273297
+Actual Variance of Batch 67: 195279793.525
+Actual Standard Deviation of Batch 67: 13974.2546679
+Actual Variance of Batch 68: 197712407.862
+Actual Standard Deviation of Batch 68: 14061.0244244
+Actual Variance of Batch 69: 197102572.864
+Actual Standard Deviation of Batch 69: 14039.3223791
+Actual Variance of Batch 70: 196380416.786
+Actual Standard Deviation of Batch 70: 14013.5797277
+Actual Variance of Batch 71: 194257677.192
+Actual Standard Deviation of Batch 71: 13937.6352798
+Actual Variance of Batch 72: 195859950.997
+Actual Standard Deviation of Batch 72: 13994.9973561
+Actual Variance of Batch 73: 194723926.87
+Actual Standard Deviation of Batch 73: 13954.3515389
+Actual Variance of Batch 74: 196823433.289
+Actual Standard Deviation of Batch 74: 14029.377509
+Actual Variance of Batch 75: 197168346.678
+Actual Standard Deviation of Batch 75: 14041.664669
+Actual Variance of Batch 76: 192458215.801
+Actual Standard Deviation of Batch 76: 13872.9310458
+Actual Variance of Batch 77: 195389057.595
+Actual Standard Deviation of Batch 77: 13978.1635988
+Actual Variance of Batch 78: 198784159.804
+Actual Standard Deviation of Batch 78: 14099.0836512
+Actual Variance of Batch 79: 195066623.059
+Actual Standard Deviation of Batch 79: 13966.6253282
+Actual Variance of Batch 80: 197292209.462
+Actual Standard Deviation of Batch 80: 14046.0745214
+Actual Variance of Batch 81: 196764740.373
+Actual Standard Deviation of Batch 81: 14027.2855668
+Actual Variance of Batch 82: 198262695.449
+Actual Standard Deviation of Batch 82: 14080.5786617
+Actual Variance of Batch 83: 199985819.544
+Actual Standard Deviation of Batch 83: 14141.63426
+Actual Variance of Batch 84: 197609846.303
+Actual Standard Deviation of Batch 84: 14057.3769354
+Actual Variance of Batch 85: 194636877.448
+Actual Standard Deviation of Batch 85: 13951.2321122
+Actual Variance of Batch 86: 194287199.947
+Actual Standard Deviation of Batch 86: 13938.6943415
+Actual Variance of Batch 87: 194846984.492
+Actual Standard Deviation of Batch 87: 13958.7601345
+Actual Variance of Batch 88: 192897861.154
+Actual Standard Deviation of Batch 88: 13888.7674455
+Actual Variance of Batch 89: 193199864.78
+Actual Standard Deviation of Batch 89: 13899.6354189
+Actual Variance of Batch 90: 198192209.219
+Actual Standard Deviation of Batch 90: 14078.07548
+Actual Variance of Batch 91: 194671796.054
+Actual Standard Deviation of Batch 91: 13952.4835085
+Actual Variance of Batch 92: 198357420.72
+Actual Standard Deviation of Batch 92: 14083.9419453
+Actual Variance of Batch 93: 195800595.659
+Actual Standard Deviation of Batch 93: 13992.8766042
+Actual Variance of Batch 94: 193168414.831
+Actual Standard Deviation of Batch 94: 13898.5040501
+Actual Variance of Batch 95: 193095187.721
+Actual Standard Deviation of Batch 95: 13895.8694482
+Actual Variance of Batch 96: 196053391.568
+Actual Standard Deviation of Batch 96: 14001.9067119
+Actual Variance of Batch 97: 193561522.315
+Actual Standard Deviation of Batch 97: 13912.6389415
+Actual Variance of Batch 98: 195152311.113
+Actual Standard Deviation of Batch 98: 13969.6925919
+Actual Variance of Batch 99: 194873257.424
+Actual Standard Deviation of Batch 99: 13959.7011939
+Actual Variance of Batch 100: 196880916.419
+Actual Standard Deviation of Batch 100: 14031.4260294
+Overall Variance: 195633976.403
+Overall Standard Deviation: 13986.9216199

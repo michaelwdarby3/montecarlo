@@ -1,0 +1,18 @@
+Mode: MegaMillions
+Size of each batch: 1000
+Number of batches: 10
+
+Expected mean: 31.25.
+Means:
+Batch 1 mean: 31.7473333333
+Batch 2 mean: 31.6983333333
+Batch 3 mean: 31.7505
+Batch 4 mean: 32.2051666667
+Batch 5 mean: 31.5885
+Batch 6 mean: 31.9023333333
+Batch 7 mean: 31.7075
+Batch 8 mean: 31.8596666667
+Batch 9 mean: 32.0288333333
+Batch 10 mean: 31.9003333333
+Total mean: 31.83885
+

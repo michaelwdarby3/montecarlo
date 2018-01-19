@@ -1,0 +1,18 @@
+Mode: Take5
+Size of each batch: 1000
+Number of batches: 10
+
+Expected mean: 20.
+Means:
+Batch 1 mean: 19.7736
+Batch 2 mean: 20.0048
+Batch 3 mean: 19.971
+Batch 4 mean: 20.0846
+Batch 5 mean: 19.9882
+Batch 6 mean: 20.009
+Batch 7 mean: 19.9072
+Batch 8 mean: 19.896
+Batch 9 mean: 19.9804
+Batch 10 mean: 20.0454
+Total mean: 19.96602
+

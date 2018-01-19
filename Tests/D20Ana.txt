@@ -1,0 +1,42 @@
+Mode: D20
+Size of each batch: 1000
+Number of batches: 10
+
+Expected mean: 10.5.
+Means:
+Batch 1 mean: 10.519
+Batch 2 mean: 10.436
+Batch 3 mean: 10.377
+Batch 4 mean: 10.634
+Batch 5 mean: 10.776
+Batch 6 mean: 10.651
+Batch 7 mean: 10.53
+Batch 8 mean: 10.464
+Batch 9 mean: 10.281
+Batch 10 mean: 10.604
+Total mean: 10.5272
+
+Expected Variance: 33.25
+Expected Standard Deviation: 5.76628129734
+Actual Variance of Batch 1: 32.435639
+Actual Standard Deviation of Batch 1: 5.69522949494
+Actual Variance of Batch 2: 33.905904
+Actual Standard Deviation of Batch 2: 5.82287763911
+Actual Variance of Batch 3: 34.370871
+Actual Standard Deviation of Batch 3: 5.8626675669
+Actual Variance of Batch 4: 33.278044
+Actual Standard Deviation of Batch 4: 5.768712508
+Actual Variance of Batch 5: 33.309824
+Actual Standard Deviation of Batch 5: 5.7714663648
+Actual Variance of Batch 6: 35.235199
+Actual Standard Deviation of Batch 6: 5.93592444359
+Actual Variance of Batch 7: 31.7851
+Actual Standard Deviation of Batch 7: 5.6378275958
+Actual Variance of Batch 8: 33.428704
+Actual Standard Deviation of Batch 8: 5.7817561346
+Actual Variance of Batch 9: 31.608039
+Actual Standard Deviation of Batch 9: 5.62210272051
+Actual Variance of Batch 10: 33.585184
+Actual Standard Deviation of Batch 10: 5.79527255614
+Overall Variance: 33.31326016
+Overall Standard Deviation: 5.7717640423

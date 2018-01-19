@@ -1,0 +1,45 @@
+Mode: MarkovStep
+Size of each batch: 1000
+Number of batches: 10
+
+Initial Probability: 0.5
+Step Up: 0.01
+Step Down: -0.01
+Expected mean: 0.5.
+Means:
+Batch 1 mean: 0.968
+Batch 2 mean: 0.036
+Batch 3 mean: 0.98
+Batch 4 mean: 0.926
+Batch 5 mean: 0.894
+Batch 6 mean: 0.97
+Batch 7 mean: 0.038
+Batch 8 mean: 0.975
+Batch 9 mean: 0.951
+Batch 10 mean: 0.949
+Total mean: 0.7687
+
+Expected Variance: 0.25
+Expected Standard Deviation: 0.5
+Actual Variance of Batch 1: 0.030976
+Actual Standard Deviation of Batch 1: 0.176
+Actual Variance of Batch 2: 0.034704
+Actual Standard Deviation of Batch 2: 0.186290096355
+Actual Variance of Batch 3: 0.0196
+Actual Standard Deviation of Batch 3: 0.14
+Actual Variance of Batch 4: 0.068524
+Actual Standard Deviation of Batch 4: 0.261770892194
+Actual Variance of Batch 5: 0.094764
+Actual Standard Deviation of Batch 5: 0.307837619533
+Actual Variance of Batch 6: 0.0291
+Actual Standard Deviation of Batch 6: 0.170587221092
+Actual Variance of Batch 7: 0.036556
+Actual Standard Deviation of Batch 7: 0.191196234273
+Actual Variance of Batch 8: 0.024375
+Actual Standard Deviation of Batch 8: 0.15612494996
+Actual Variance of Batch 9: 0.046599
+Actual Standard Deviation of Batch 9: 0.215868015232
+Actual Variance of Batch 10: 0.048399
+Actual Standard Deviation of Batch 10: 0.219997727261
+Overall Variance: 0.17780031
+Overall Standard Deviation: 0.421663740438
